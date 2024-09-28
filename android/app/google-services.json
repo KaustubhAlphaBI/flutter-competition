@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362535649804",
+    "project_id": "temp-4da78",
+    "storage_bucket": "temp-4da78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362535649804:android:8f236a575f520b0e9e6429",
+        "android_client_info": {
+          "package_name": "com.example.competition"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTNIG59qGHJ5oUX1qZPRaRzUFlhPzttPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
